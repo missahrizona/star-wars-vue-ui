@@ -1,5 +1,8 @@
 # star-wars-vue-ui
 
+### Demo - https://star-wars-vue-ui-dist-lad4e.ondigitalocean.app/
+
+
 ## Project setup
 ```
 npm install
