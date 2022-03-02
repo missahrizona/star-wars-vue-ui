@@ -2,6 +2,6 @@ const { defineConfig } = require('@vue/cli-service');
 module.exports = defineConfig({
 	transpileDependencies: ['vuetify'],
 	devServer: {
-		disableHostCheck: true,
+		public: 'https://star-wars-vue-ui-g6hn2.ondigitalocean.app',
 	},
 });
